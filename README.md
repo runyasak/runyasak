@@ -1,1 +1,1 @@
-[![Header](https://raw.githubusercontent.com/runyasak/runyasak/master/vue-news-thailand.png "Header")](https://www.facebook.com/VueNewsThailand)
+[![Header](https://raw.githubusercontent.com/runyasak/runyasak/master/header.png "Header")](https://www.facebook.com/VueNewsThailand)
