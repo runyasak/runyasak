@@ -17,8 +17,17 @@ Nice to meet you. 😁
 
 # Relevant Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=runyasak&repo=v-digital-time-picker&theme=dark)](https://github.com/runyasak/v-digital-time-picker)
+<div>
+  <a href="https://github.com/runyasak/v-digital-time-picker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=runyasak&repo=v-digital-time-picker&theme=dark" />
+  </a>
+  <a href="https://github.com/runyasak/research-nuxt-storefront">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=runyasak&repo=research-nuxt-storefront&theme=dark" />
+  </a>
+</div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=runyasak&repo=research-nuxt-storefront&theme=dark)](https://github.com/runyasak/research-nuxt-storefront)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=biigpongsatorn&repo=vue-element-loading&theme=dark)](https://github.com/biigpongsatorn/vue-element-loading)
+<div>
+ <a href="https://github.com/biigpongsatorn/vue-element-loading">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=biigpongsatorn&repo=vue-element-loading&theme=dark" />
+  </a>
+</div>
