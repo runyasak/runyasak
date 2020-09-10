@@ -13,7 +13,10 @@ Nice to meet you. 😁
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=runyasak&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Runyasak's github stats](https://github-readme-stats.vercel.app/api?username=runyasak&show_icons=true&theme=dark)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=runyasak&show_icons=true&theme=dark" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=runyasak&layout=compact&theme=dark" />
+</div>
 
 ## Relevant Projects
 
