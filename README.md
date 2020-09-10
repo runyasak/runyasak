@@ -15,7 +15,7 @@ Nice to meet you. 😁
 
 ![Runyasak's github stats](https://github-readme-stats.vercel.app/api?username=runyasak&show_icons=true&theme=dark)
 
-# Releavant Projects
+# Relevant Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=runyasak&repo=v-digital-time-picker&theme=dark)](https://github.com/runyasak/v-digital-time-picker)
 
