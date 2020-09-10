@@ -2,7 +2,7 @@
 
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm World, Front-end Developers from Thailand who loves Vue.js and Americano. 😎 ☕️
+I'm World, Front-end Developer from Thailand who loves Vue.js and Americano. 😎 ☕️
 
 I'm currently learning on Vue.js and React.js with passionate to find passionate projects for contributing.
 
