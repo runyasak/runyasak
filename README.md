@@ -1,4 +1,4 @@
-<p align="center"><img src="https://odds-reamdme-badge.vercel.app/api" /></p>
+<p align="center"><img src="https://odds-readme-badge.vercel.app/api" /></p>
 
 [![Header](https://raw.githubusercontent.com/runyasak/runyasak/master/header.png "Header")](https://www.facebook.com/VueNewsThailand)
 
